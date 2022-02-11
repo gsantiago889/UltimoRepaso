@@ -1,0 +1,27 @@
+TAREA 1 CURSO DE PREPARACION
+
+1- QUE ES UNA VARUABLE
+
+VARIABLE: es un espacio que se reserva en la memoria para guardar algo, alli podemos guardar un número para usarlo después, podemos guardar una letra, un nombre o una foto, para poder utilizarlos cuando querramos.
+
+2- INSTRUMENTO DE CUERDA:
+
+Por traduccion deduzco que se refriere a STRINGS, que son variables que contienen cadenas de caracteres, ej. un mombre, una oracion, o varios caracteres sin significado,, ("Luis" es una cadena - "Mama es buena" es una cadena y "GHttrekuijh" es otro ejemplo de cadena.
+
+3- FUNCIONES:
+
+Las funciones son estructuras que utiliza el programa que realizan algo siguiendo un listado de instrucciones devolviendo un resultado y podemos utilizarla varias veces llamandola por su nombre (como su nombre lo indica una funcion en particular). ej. en un programa de calculadora, podemos hacer una funcion "SUMAR" que sume 2 numeros y que devuelva el resutado, estonces cuando escribamos SUMAR la computadora sume los 2 numeros, pero si ponemos atencion la computadora nos va a decir: que sumo?, pasame los números, y esos números que le pasamos para que sume se llaman (argumentos) la compu hace la suma de los argumentos y mediante el (return) no devuelve el resultado.
+
+3- Declaracion if
+
+El if dentro de un programa nos permite tomar un descision entre 2 o mas posibles, según la desicion tomada nos llevara por un camino diferente, ej. del programa de calculadora, podemos programar una opcion que diga: Quiere sumar o restar? y de acuerdo a la opcion elegida que haga la operacion indicada.
+
+4- VALORES BOOLEANOS
+
+en los valores booleanos solo hay 2 posibles (0 y 1) o TRUE y FALSE, mediante estos valores el programa puede responder a condiciones logicas mediante VERDADERO o FALSO y tomar desiciones. ej. si el semaforo esta es rojo? paso o no? si la respuesta es TRUE (Verdadero) no debo pasar.
+
+
+
+
+
+
